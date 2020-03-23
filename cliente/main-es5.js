@@ -535,7 +535,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     var environment = {
       production: false,
-      wsUrl: 'http://3.85.194.212:3000'
+      wsUrl: 'http://hostzictcian.ddns.net:3000'
     };
     /*
      * For easier debugging in development mode, you can import the following file
